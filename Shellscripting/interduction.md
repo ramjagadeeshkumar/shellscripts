@@ -1,5 +1,5 @@
 #                                           INTRODUCTION 
-.[preview](./images/Shell.png)
+![preview](./images/Shell.png)
 
 ##                                              KERNEL
 ---
@@ -9,12 +9,12 @@
   * example : facility to store data, print data on printer, memory and file managment ..etc
 
 ---
-![preview](.\images\S1.png)
+![preview](./images/S1.png)
 
 ## This is shell what does for us 
-![preview](.\images\S2.png)
+![preview](./images/S2.png)
 
-![preview](.\images\S3.png)
+![preview](./images/S3.png)
 
 ---
 * its environment provided for user interaction
@@ -22,10 +22,10 @@
 
 ----
 
-![preview](.\images\S5.png)
+![preview](./images/S5.png)
 
 ## Types of shells in Linux
-![preview](.\images\S4.png)
+![preview](./images/S4.png)
 
 ## Basic commands for shell
 ---
@@ -43,30 +43,30 @@ To find which type of shell on your linux machine
 * useradd $i
 
 ---
-![preview](.\images\S6.png)
+![preview](./images/S6.png)
 
 ## To Create script 
 
 ---
 * vim script-name.sh or vi script-name.sh
-![preview](.\images\cmd.png)
+![preview](./images/cmd.png)
 * :wq! (save & exist)
 
 
 ---
 ## file types supported for linux 
-![preview](.\images\basic-cmd.png)
-![preview](.\images\S7.png)
+![preview](./images/basic-cmd.png)
+![preview](./imagesS/7.png)
 
 
 ## Requried for run shell file
 ---
 * create file : vim shellscript.sh (.sh is identy for checking file we are using)
-* ![preview](.\images\S9.png)
+* ![preview](./images/S9.png)
 ### #!/bin/bash  (its helps where to exective script)
 * To run shell file  & its fail due if file did not have exectue permission
-* ![preview](.\images\S8.png)
-* ![preview](.\images\S10.png)
+* ![preview](./images/S8.png)
+* ![preview](./images/S10.png)
 * 
 
 ---
