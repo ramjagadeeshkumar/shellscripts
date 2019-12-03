@@ -1,5 +1,5 @@
 #                                           INTRODUCTION 
-![preview](.\images\Shell.png)
+[preview](.\images\Shell.png)
 
 ##                                              KERNEL
 ---
