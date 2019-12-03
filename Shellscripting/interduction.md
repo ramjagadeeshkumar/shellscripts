@@ -54,12 +54,10 @@ To find which type of shell on your linux machine
 ![preview](.\images\cmd.png)
 
 * :wq! (save & exist)
-
-
----
 ## file types supported for linux 
+
 ![preview](.\images\basic-cmd.png)
----
+
 ![preview](.\images\s7.png)
 
 
@@ -67,11 +65,10 @@ To find which type of shell on your linux machine
 ---
 * create file : vim shellscript.sh (.sh is identy for checking file we are using)
 ![preview](.\images\s9.png)
-### #!/bin/bash  (its helps where to exective script)
+#### !/bin/bash  (its helps where to exective script)
 * To run shell file  & its fail due if file did not have exectue permission
+
 ![preview](.\images\s8.png)
 
 ![preview](.\images\s10.png) 
-
----
 
