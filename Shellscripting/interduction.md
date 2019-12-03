@@ -24,10 +24,10 @@
 
 ----
 
-![preview](.\images\s5.png)
+![preview](.\images\S5.png)
 
 ## Types of shells in Linux
-![preview](.\images\s4.png)
+![preview](.\images\S4.png)
 
 ## Basic commands for shell
 ---
@@ -45,13 +45,14 @@ To find which type of shell on your linux machine
 * useradd $i
 
 ---
-![preview](.\images\s6.png)
+![preview](.\images\S6.png)
 
 ## To Create script 
 
----
 * vim script-name.sh or vi script-name.sh
+---
 ![preview](.\images\cmd.png)
+
 * :wq! (save & exist)
 
 
@@ -65,12 +66,12 @@ To find which type of shell on your linux machine
 ## Requried for run shell file
 ---
 * create file : vim shellscript.sh (.sh is identy for checking file we are using)
-* ![preview](.\images\s9.png)
+![preview](.\images\s9.png)
 ### #!/bin/bash  (its helps where to exective script)
 * To run shell file  & its fail due if file did not have exectue permission
-* ![preview](.\images\s8.png)
-* ![preview](.\images\s10.png)
-* 
+![preview](.\images\s8.png)
+
+![preview](.\images\s10.png) 
 
 ---
 
