@@ -1,6 +1,6 @@
 # INTRODUCTION 
 ---
-![preview](.\images\Shell.png)
+![preview](./images/Shell.png)
 
 ## KERNEL
 ---
@@ -11,14 +11,14 @@
 
 ---
 
-![preview](.\images\S1.png)
+![preview](./images/S1.png)
 
 ## This is shell what does for us 
-![preview](.\images\S2.png)
+![preview](./images/S2.png)
 
-![preview](.\images\S3.png)
+![preview](./images/S3.png)
 
----
+--- 
 * its environment provided for user interaction
 * shell is a command language interpreter that executes commands read from the standard input device (keyboard)or(from a file)
 
