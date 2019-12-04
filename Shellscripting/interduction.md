@@ -45,7 +45,7 @@ To find which type of shell on your linux machine
 * useradd $i
 
 ---
-![preview](./images/S6b.png)
+![preview](./images/s6b.png)
 
 ## To Create script 
 
