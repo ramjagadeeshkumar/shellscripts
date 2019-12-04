@@ -1,6 +1,6 @@
 # INTRODUCTION 
 ---
-![preview](./images/Shell.png)
+![preview](./images/shell.png)
 
 ## KERNEL
 ---
@@ -16,7 +16,7 @@
 ## This is shell what does for us 
 ![preview](./images/S2.png)
 
-![preview](./images/S3.png)
+![preview](./images/s3.png)
 
 --- 
 * its environment provided for user interaction
@@ -49,27 +49,26 @@ To find which type of shell on your linux machine
 
 ## To Create script 
 
----
 * vim script-name.sh or vi script-name.sh
-![preview](.\images\cmd.png)
-* :wq! (save & exist)
-
-
 ---
+![preview](.\images\cmd.png)
+
+* :wq! (save & exist)
 ## file types supported for linux 
+
 ![preview](.\images\basic-cmd.png)
-![preview](.\images\S7.png)
+
+![preview](.\images\s7.png)
 
 
 ## Requried for run shell file
 ---
 * create file : vim shellscript.sh (.sh is identy for checking file we are using)
-* ![preview](.\images\S9.png)
-### #!/bin/bash  (its helps where to exective script)
+![preview](.\images\s9.png)
+#### !/bin/bash  (its helps where to exective script)
 * To run shell file  & its fail due if file did not have exectue permission
-* ![preview](.\images\S8.png)
-* ![preview](.\images\S10.png)
-* 
 
----
+![preview](.\images\s8.png)
+
+![preview](.\images\s10.png) 
 
