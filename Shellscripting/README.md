@@ -63,6 +63,3 @@ A collection of simple Bash scripts.
 
 1. [thumbnail.sh](scripts/thumbnail.sh): create 400px thumbnails from images in a folder
 
-## License
-
-MIT
